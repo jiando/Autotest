@@ -1,4 +1,4 @@
-# Automated-Test
+# AutoTest
 ## Web自动化测试框架
 
 ### 测试框架：
